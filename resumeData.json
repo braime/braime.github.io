@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name":"Hans Huber",
+    "occupation":"Computerguy",
+    "description":"I always wanted my personal bio page, so here it is :-)",
+    "image":"profilepic.jpg",
+    "bio":"I am surprised, that someone is reading this :-) I do like Juggling, Music, Programming, Cats and puzzles.",
+    "contactmessage":"Here you can write a message to me, I will read it!",
+    "email": "kazudergauner@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"Musterstraße",
+      "city":"Munich",
+      "state":"Germany",
+      "zip": "8xxxx"
+    },
+    "website": "https://braime.github.io/",
+    "resumedownload":"https://braime.github.io/",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/braime",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University",
+        "degree":"Diploma in Computational Visualistic",
+        "graduated":"Somewhen around 2010",
+        "description":"Great times in which I learned and developed a lot."
+      },
+      {
+        "school":"Joho",
+        "degree":"Abitur",
+        "graduated":"June 2001",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Weframe",
+        "title":"Software Developer",
+        "years":"March 2017 - Present",
+        "description":"Fullstack web developer with React/JS for Frontend and Spring/JAVA for the backend. We develop a Hard- and Software solution for distributed and intuitive group collaboration."
+      },
+      {
+        "company":"GTG",
+        "title":"Junior bug fixer",
+        "years":"March 2013 - February 2016",
+        "description":"Started out with Expression Blend, a little C#, then intensive iOS development in Swift. I developed touch applications, whith focus on design and a little gamification to present a business. "
+      },
+      {
+        "company":"???",
+        "title":"short freelancing phase",
+        "years":"November 2012 - February 2013",
+        "description":"Developing an AppleScript to fully automize SlideShowVideos including music and theming."
+      },
+      {
+        "company":"IABG",
+        "title":"first job after diploma - at same company",
+        "years":"March 2007 - October 2012",
+        "description":"Different tasks varying from Excel Macros to 3D renderings in the end."
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"75%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"CSS HTML5",
+        "level":"70%"
+      },
+      {
+        "name":"NPM ecosphere",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"60%"
+      },
+      {
+        "name":"Spring/JAVA",
+        "level":"70%"
+      },
+      {
+        "name":"IDE (IDEA, VS-Code, Xcode, VisualStudio...)",
+        "level":"80%"
+      },
+      {
+        "name":"OS - Terminal (OSX, Win, Linux - Terminal, iTerm2, bash, zsh, Powershell)",
+        "level":"80%"
+      },
+      {
+        "name":"Humor",
+        "level":"101%"
+      },
+      {
+        "name":"Photoshop (and some others from the Creative Suit)",
+        "level":"85%"
+      },
+      {
+        "name":"3D Tools (3D Studio Max, little bit of Maya, Blender)",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"title",
+        "category":"category",
+        "image":"SplashScreen.jpg",
+        "url":"https://braime.github.io/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Some cool quote...",
+        "user":"... by some smart person"
+      }
+    ]
+  }
+}
